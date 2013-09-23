@@ -1,0 +1,8 @@
+info it worked if it ends with ok
+info using fhc@0.10.0-322
+info using node@v0.10.18
+silly config file /Users/suredu/.fhcrc
+silly config file /usr/local/etc/fhcrc
+ERR! usage: fhc native config=<apple | android> app=<appid | alias> [dir=<PATH TO DIR TO WRIE FILE (CLI only)>]
+ERR! 
+verbose exit [ 1, true ]
